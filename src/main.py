@@ -1,0 +1,1 @@
+print("Rental system application is running.")
