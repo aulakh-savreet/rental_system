@@ -35,5 +35,4 @@ var/
 # Logs
 *.log
 
-# Data files (optional: if you want to keep data private)
-# data/*.json
+
